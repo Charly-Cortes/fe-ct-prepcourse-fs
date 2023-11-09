@@ -12,9 +12,9 @@ function crearGato(nombre, edad) {
    neow: function() {
       return 'Meow!';
    }
-};
-return gato;
-}clearImmediate
+ };
+ return gato;
+}
 
 function nuevoUsuario(nombre, email, password) {
    // Debes crear un nuevo objeto.
